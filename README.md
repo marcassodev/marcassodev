@@ -45,7 +45,6 @@
 
 "Primeiro faça funcionar, depois faça direito, e só então faça rápido." — Kent Beck
 
-
 <!-- Contato -->
 📬 Vamos nos conectar?
 <div align="center">
