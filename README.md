@@ -2,7 +2,7 @@
   <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique+%F0%9F%91%8B;Back-end+Developer;Java+%7C+Spring+Boot+%7C+MySQL" />
 </div>
 <div align="center">
-  <h2>Olá! Seja bem-vindo ao meu perfil 👋</h2>
+  <h2>Olá! Seja bem-vindo ao meu perfil</h2>
   <p>
     Sou <strong>Paulo Henrique Marcasso Barreira</strong>, desenvolvedor back-end apaixonado por construir soluções robustas e eficientes.<br/>
     Foco em <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>MySQL</strong>, sempre buscando escrever código limpo e de qualidade.
@@ -14,7 +14,7 @@
 🔭 Atualmente desenvolvendo projetos com Java + Spring Boot
 🌱 Sempre aprendendo e evoluindo nas melhores práticas de back-end
 💡 Curioso por arquitetura de sistemas, APIs REST e banco de dados relacional
-📍 Brasil 🇧🇷
+📍 Brasil - São Paulo
 
 
 🚀 Tecnologias & Ferramentas
