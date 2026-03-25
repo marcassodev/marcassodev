@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>    
 
-----------------------------------------------------------------📊 Estatísticas---------------------------------------------------------------------    
+-------------------------------------------------------------------📊 Estatísticas------------------------------------------------------------------------    
     
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=1a1a2e&border_color=0f3460" />
