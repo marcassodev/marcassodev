@@ -33,15 +33,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=1a1a2e&border_color=0f3460" />
 </div>
 
-💬 Filosofia
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-<br/>
-
-"Primeiro faça funcionar, depois faça direito, e só então faça rápido." — Kent Beck
-
-
 📬 Vamos nos conectar?
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
