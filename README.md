@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Paulo%20Henrique&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a8b2d8" />
+  <img src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique+%F0%9F%91%8B;Back-end+Developer;Java+%7C+Spring+Boot+%7C+MySQL" />
 </div>
 <div align="center">
   <h2>Olá! Seja bem-vindo ao meu perfil 👋</h2>
