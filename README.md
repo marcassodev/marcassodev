@@ -11,24 +11,27 @@
 
 🙋 Sobre mim
 
-🔭 Atualmente desenvolvendo projetos com Java + Spring Boot
-🌱 Sempre aprendendo e evoluindo nas melhores práticas de back-end
-💡 Curioso por arquitetura de sistemas, APIs REST e banco de dados relacional
-📍 Brasil - São Paulo
+🔭 Atualmente desenvolvendo projetos com Java + Spring Boot    
+🌱 Sempre aprendendo e evoluindo nas melhores práticas de back-end    
+💡 Curioso por arquitetura de sistemas, APIs REST e banco de dados relacional    
+📍 Brasil - São Paulo    
 
 
 🚀 Tecnologias & Ferramentas
+
 🔧 Back-end & Banco de Dados
 <div>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
 </div>
 <br/>
 🎨 Front-end & Outros
+
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>
 
 📊 Estatísticas
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=1a1a2e&border_color=0f3460" />
 </div>
