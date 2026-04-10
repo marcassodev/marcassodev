@@ -30,13 +30,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>    
 
------------------------------------------------------------------📊 Estatísticas-----------------------------------------------------------------------    
+--------------------------------------------------------------📊 Estatísticas--------------------------------------------------------------------    
     
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=1a1a2e&border_color=0f3460" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=30"/>
 </div>
 
------------------------------------------------------------📬 Vamos nos conectar?-----------------------------------------------------------------
+----------------------------------------------------------📬 Vamos nos conectar?-----------------------------------------------------------------
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
