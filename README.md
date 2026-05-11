@@ -24,11 +24,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
 </div>
 <br/>
+
 🎨 Front-end & Outros
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>    
+
 
 📊 Estatísticas
     
