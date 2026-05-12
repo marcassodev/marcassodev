@@ -35,7 +35,8 @@
 📊 Estatísticas
     
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=30"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcassodev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&theme=tokyonight"/>
 </div>
 
 📬 Vamos nos conectar?
