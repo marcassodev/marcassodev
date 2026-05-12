@@ -34,7 +34,7 @@
 
 📬 Vamos nos conectar?
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
