@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>    
 
+
 📬 Vamos nos conectar?
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
