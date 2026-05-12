@@ -34,10 +34,10 @@
 
 📊 Estatísticas
     
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcassodev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcassodev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
 
 📬 Vamos nos conectar?
 <div align="center">
