@@ -31,14 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" />
 </div>    
 
-
-📊 Estatísticas
-    
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-marcassodev.vercel.app/api?username=marcassodev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-marcassodev.vercel.app/api/top-langs/?username=marcassodev&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 📬 Vamos nos conectar?
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-henrique-marcasso-barreira-32873b1a5/" target="_blank">
