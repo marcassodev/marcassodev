@@ -18,33 +18,33 @@
 
 ### 🙋 Sobre mim
 
-🔭 Atualmente desenvolvendo aplicações **full-stack** (front-end, back-end e banco de dados)  
-⚛️ Construindo interfaces modernas e responsivas com **React** e **TypeScript**  
-🟢 Criando APIs REST com **Node.js** e **Java + Spring Boot**  
-🌱 Sempre aprendendo e evoluindo nas melhores práticas de ponta a ponta  
-💡 Curioso por arquitetura de sistemas, APIs REST e banco de dados relacional  
-📍 Brasil - São Paulo  
+- Atualmente desenvolvendo aplicações **full-stack** (front-end, back-end e banco de dados)
+- Construindo interfaces modernas e responsivas com **React** e **TypeScript**
+- Criando APIs REST com **Node.js** e **Java + Spring Boot**
+- Sempre aprendendo e evoluindo nas melhores práticas de ponta a ponta
+- Curioso por arquitetura de sistemas, APIs REST e banco de dados relacional
+- 📍 Brasil - São Paulo
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
-#### 🎨 Front-end
+**Front-end**
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </div>
 
-#### ⚙️ Back-end
+**Back-end**
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
 </div>
 
-#### 🗄️ Banco de Dados
+**Banco de Dados**
 <div>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
-#### 🔧 Ferramentas
+**Ferramentas**
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
