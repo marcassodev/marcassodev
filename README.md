@@ -54,8 +54,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcassodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E94560&icon_color=E94560" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcassodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E94560" />
+  <img src="https://img.shields.io/github/followers/marcassodev?style=for-the-badge&logo=github&logoColor=white&color=E94560&labelColor=16213e" />
+  <img src="https://img.shields.io/github/stars/marcassodev?style=for-the-badge&logo=github&logoColor=white&color=E94560&labelColor=16213e" />
+  <img src="https://komarev.com/ghpvc/?username=marcassodev&style=for-the-badge&color=E94560&label=VISITAS" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=marcassodev&theme=tokyonight&hide_border=true&background=0d1117&ring=E94560&fire=E94560&currStreakLabel=E94560" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/E94560/marcassodev" width="90%" />
 </div>
 
 ---
